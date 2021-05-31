@@ -41,8 +41,10 @@ Elastic Search API <br>
         -> adds or updates a typed json doc in specific index, making it searchable.
      2. GET API <br>
         -> Searching some data
-     4. Delete API <br>
-     5. Update API <br>
+     3. Delete API <br>
+        -> To delete typed JSON obj.
+     4. Update API <br>
+        -> update based on a script provided.
    * Muti Doc API <br>
      1. Multi GET API <br>
      2. Bulk API <br>
