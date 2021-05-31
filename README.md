@@ -38,19 +38,22 @@ Elastic Search API <br>
  * Document API <br>
    * Single Doc API <br>
      1. Index API <br>
-        -> adds or updates a typed json doc in specific index, making it searchable.
+        -> adds or updates a typed json doc in specific index, making it searchable. <br>
      2. GET API <br>
-        -> Searching some data
+        -> Searching some data. <br>
      3. Delete API <br>
-        -> To delete typed JSON obj.
+        -> To delete typed JSON obj. <br>
      4. Update API <br>
-        -> update based on a script provided.
+        -> update based on a script provided. <br>
    * Muti Doc API <br>
      1. Multi GET API <br>
+        -> Start with _mget <br>
      2. Bulk API <br>
+        -> Perform n number of different operations in single go. <br>
      3. Delete by query API <br>
-     4. Update by query API <br>
-     5. Reindex API <br>
+        
+     5. Update by query API <br>
+     6. Reindex API <br>
  * Search API <br>
  * Indices API <br>
  * cat API <br>
